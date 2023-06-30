@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\Intern\resources\views/Doctor/Auth/includes/footer.blade.php ENDPATH**/ ?>
